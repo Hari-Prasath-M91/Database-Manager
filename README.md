@@ -99,4 +99,15 @@ az webapp deploy `
 ---
 
 ## 📄 License
-This project is open-source and available under the MIT License.
+This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+
+If you have questions, suggestions, or issues, please:
+
+- Open an issue on GitHub
+- Feel free to contact me at [hariprasath.m2017@gmail.com](mailto:hariprasath.m2017@gmail.com)
+
+For more details about the project's design, features, and implementation, please refer to the [Report.pdf](Report.pdf).
